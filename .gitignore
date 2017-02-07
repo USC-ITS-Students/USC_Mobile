@@ -1,0 +1,6 @@
+# Specifies files to intentionally ignore when using Git
+
+.idea
+platforms/
+plugins/
+
