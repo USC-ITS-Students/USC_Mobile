@@ -28,10 +28,6 @@ Supported Platforms
 ```
 cd USC_Mobile
 ```
-* Install dependencies:
-```
-npm install
-```
 * Add Cordova platforms
  * For iOS:
  ```
